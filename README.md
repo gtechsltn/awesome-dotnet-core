@@ -29,6 +29,8 @@
 ## Caching
 
 ## CMS
++ Squidex - Headless CMS and Content Managment Hub (https://github.com/Squidex/squidex)
++ Lin CMS - A simple and practical CMS implemented by ASP.NET Core 5 (https://github.com/luoyunchong/lin-cms-dotnetcore/)
 
 ## Code Analysis and Metrics
 
@@ -157,3 +159,8 @@
 + ASP.NET Core Starter Kit - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
 + dotNetify - Simple, lightweight, yet powerful way to build real-time web apps.
 + Nucleus - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+
+## References
++ https://github.com/thangchung/awesome-dotnet-core
++ https://github.com/thangchung/awesome-dotnet
++ https://github.com/quozd/awesome-dotnet
