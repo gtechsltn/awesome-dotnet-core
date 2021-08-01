@@ -211,6 +211,11 @@
   + react-redux-axios-app-starter-kit (https://github.com/Palatnyi/react-redux-axios-starter-kit)
 + MongoDB
   + Angular, Microservices and Authentication with IdentityServer, MongoDB and Docker (https://github.com/apomic80/angular-microservices-identityserver)
++ ABP Framework & MongoDB
+  + Web Application Development Tutorial (https://docs.abp.io/en/commercial/latest/tutorials/book-store/part-1?UI=NG&DB=Mongo)
+  + About this tutorial: In this tutorial series, you will build an ABP Commercial application named Acme.BookStore. This application is used to manage a list of books and their authors. It is developed using the following technologies:
+    + MongoDB as the database provider.
+    + Angular as the UI Framework.
 
 # References
 + https://github.com/thangchung/awesome-dotnet-core
