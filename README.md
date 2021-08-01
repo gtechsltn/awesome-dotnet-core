@@ -14,7 +14,7 @@
 + DNTFrameworkCore - Lightweight and Extensible Infrastructure for Building High Quality Web Applications Based on ASP.NET Core.
 + DotnetSpider - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
 + ExcelDataReader - Lightweight and fast library written in C# for reading Microsoft Excel files.
-+ orleans - Framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
++ orleans - Orleans is a cross-platform framework for building distributed applications with .NET.
 + ServiceStack - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all https://servicestack.net.
 + Steeltoe OSS - .NET toolkit for common microservice patterns.
 + Strathweb.TypedRouting.AspNetCore - A library enabling strongly typed routing in ASP.NET Core MVC projects.
