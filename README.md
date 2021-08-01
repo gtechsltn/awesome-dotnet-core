@@ -4,7 +4,10 @@
 + General
 + Interview
 + Frameworks, Libraries and Tools
++ Samples
 + References
++ History
++ Articles
 
 # General
 
@@ -378,3 +381,60 @@
   + Vua Bảo Đại ở ngôi cho đến 30 tháng 8 năm 1945 thì làm lễ thoái vị tại Ngọ Môn, giao chính quyền lại cho Chính phủ Cách mạng Lâm thời.
   + Chế độ phong kiến chấm dứt, Bảo Đại sang Pháp và sống hết cuộc đời của vị vua lưu vong ở đó. Ông mất ngày 1 tháng 8 năm 1997 tại Pháp.
 Vua Bảo Đại có 5 người con (2 trai, 3 gái).
+
+# Articles
++ https://admin.jpproject.net/
++ https://andrewlock.net/
++ https://aspnetboilerplate.com/
++ https://benfoster.io/
++ https://binaryintellect.net/
++ https://bitoftech.net/
++ https://brockallen.com/
++ https://code-maze.com/
++ https://codewithmukesh.com/
++ https://curity.io/
++ https://damienbod.com/
++ https://dotnetcoretutorials.com/
++ https://dotnettutorials.net/
++ https://duendesoftware.com/
++ https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI
++ https://github.com/brunohbrito/JPProject.IdentityServer4.SSO
++ https://github.com/skoruba/IdentityServer4.Admin
++ https://haacked.com/
++ https://identityserver.io
++ https://identityserver4.readthedocs.io/
++ https://jasonwatmore.com/
++ https://jp-project.readthedocs.io/
++ https://jwt.io/
++ https://leastprivilege.com/
++ https://mcguirev10.com/
++ https://openid.net/
++ https://readthedocs.org/
++ https://skoruba-identityserver4-admin.readthedocs.io/
++ https://sso.jpproject.net/
++ https://stackblitz.com/
++ https://thecodeblogger.com
++ https://visualstudiomagazine.com/
++ https://volosoft.com/
++ https://wakeupandcode.com/
++ https://www.abp.io/
++ https://www.aspnetzero.com/
++ https://www.blinkingcaret.com/
++ https://www.dejanstojanovic.net/
++ https://www.dntips.ir/
++ https://www.dotnetcurry.com/
++ https://www.dotnettricks.com/
++ https://www.exceptionnotfound.net/
++ https://www.ezzylearning.net/
++ https://www.fullstackmark.com/
++ https://www.hanselman.com/
++ https://www.infoq.com/ 
++ https://www.jerriepelser.com/
++ https://www.learnrazorpages.com/
++ https://www.mikesdotnetting.com/
++ https://www.red-gate.com/
++ https://www.scottbrady91.com/
++ https://www.sitelike.org/similar/identityserver.io/
++ https://www.talkingdotnet.com/
++ https://www.tutorialsteacher.com/
++ https://www.west-wind.com/
