@@ -74,6 +74,14 @@
 ## Cryptography
 
 ## Database
++ MongoDB
+  + Ensure it's not because of insufficient RAM and excessive paging (Đảm bảo không phải do không đủ RAM và phân trang quá nhiều)
+  + Inspect the slow queries in db.system.profile and run the queries manually using explain() (Kiểm tra các truy vấn chậm trong db.system.profile và chạy các truy vấn theo cách thủ công sử dụng explain())
+  + Reason about the selectivity of the query and whether it's possible to improve the query using an index at all. (Lý do về tính chọn lọc của truy vấn và liệu có thể cải thiện truy vấn bằng cách sử dụng chỉ mục hay không.)
+  + Things get worse when the data is too big for the RAM... (Mọi thứ trở nên tồi tệ hơn khi dữ liệu quá lớn so với RAM...)
+  + The best way to control this is to limit the number of different query types, disallow queries on low selectivity information and try to prevent random access to old data. (Cách tốt nhất để kiểm soát điều này là hạn chế số lượng các loại truy vấn khác nhau, không cho phép truy vấn thông tin có tính chọn lọc thấp và cố gắng ngăn truy cập ngẫu nhiên vào dữ liệu cũ.)
+  + Making this particular query faster could be done using a compound index that contains the device type (Việc làm cho truy vấn cụ thể này nhanh hơn có thể được thực hiện bằng cách sử dụng chỉ mục kết hợp có chứa loại thiết bị)
+  + I'm afraid there's no very good solution for this using mongodb at this time. (Tôi e rằng không có giải pháp nào tốt cho việc này bằng cách sử dụng mongodb vào lúc này.)
 
 ## Database Drivers
 + **.NET Core Data Access** (https://devblogs.microsoft.com/dotnet/net-core-data-access/)
