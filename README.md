@@ -9,10 +9,12 @@
 
 ## Application Frameworks
 + ASP.NET Boilerplate - ASP.NET Boilerplate is a general purpose application framework especially designed for new modern web applications. It uses already familiar tools and implements best practices around them to provide you a SOLID development experience.
++ **ABP Framework** - Open Source Web Application Framework for ASP.NET Core (https://github.com/abpframework/abp/)
 + Abp vNext - Abp vNext is the next generation of the open source ASP.NET Boilerplate framework. It's a complete architecture and strong infrastructure to create modern web applications! Follows best practices and conventions to provide you a SOLID development experience.
 + ASP.NET MVC - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
 + DNTFrameworkCore - Lightweight and Extensible Infrastructure for Building High Quality Web Applications Based on ASP.NET Core.
 + DotnetSpider - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
++ **EquinoxProject** - Full ASP.NET Core 5 application with DDD, CQRS and Event Sourcing concepts (https://github.com/EduardoPires/EquinoxProject)
 + ExcelDataReader - Lightweight and fast library written in C# for reading Microsoft Excel files.
 + orleans - Orleans is a cross-platform framework for building distributed applications with .NET.
 + ServiceStack - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all https://servicestack.net.
@@ -29,8 +31,8 @@
 ## Caching
 
 ## CMS
-+ Squidex - Headless CMS and Content Managment Hub (https://github.com/Squidex/squidex)
-+ Lin CMS - A simple and practical CMS implemented by ASP.NET Core 5 (https://github.com/luoyunchong/lin-cms-dotnetcore/)
++ **Squidex** - Headless CMS and Content Managment Hub (https://github.com/Squidex/squidex)
++ **Lin CMS** - A simple and practical CMS implemented by ASP.NET Core 5 (https://github.com/luoyunchong/lin-cms-dotnetcore/)
 
 ## Code Analysis and Metrics
 
@@ -70,7 +72,7 @@
 
 ## ORM
 + Entity Framework Core - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
-+ Dapper - Simple object mapper for .NET.
++ **Dapper** - Simple object mapper for .NET.
 + PetaPoco - A tiny ORM-ish thing for your POCO's.
 
 ## Profiling
@@ -78,7 +80,7 @@
 + MiniProfiler - A simple but effective mini-profiler for ASP.NET websites.
 
 ## Query Builders
-+ SqlKata - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
++ **SqlKata** - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
 ## Queue and Messaging
 + MediatR - Simple, unambitious mediator implementation in .NET.
@@ -95,7 +97,7 @@
 + Hangfire.IO - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps http://hangfire.io.
   + https://www.hangfire.io
   + https://github.com/HangfireIO/Hangfire
-+ Quartz.NET - Quartz Enterprise Scheduler .NET
++ **Quartz.NET** - Quartz Enterprise Scheduler .NET
   + https://www.quartz-scheduler.net
   + https://github.com/quartznet/quartznet
 + Worker Service
