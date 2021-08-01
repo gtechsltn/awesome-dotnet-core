@@ -67,6 +67,7 @@
   + Securing an ASP.NET Core API which uses multiple access tokens (https://damienbod.com/2020/12/03/securing-an-asp-net-core-api-which-uses-multiple-access-tokens/)
   + Securing a Web API using multiple token servers (https://damienbod.com/2019/10/25/securing-a-web-api-using-multiple-token-servers/)
 + Simple sample of an IdentityServer4-based authentication server for ASP.NET Core (https://github.com/mjrousos/IdentityServer4Authentication)
++ **Implementing Cookies Authentication in ASP.NET Core** (https://github.com/ezzylearning/AspNetCoreCookiesAuthDemo)
 + Thinktecture **IdentityServer2** is a light-weight security token service built with .NET 4.5, MVC 4, Web API and WCF. (https://github.com/IdentityServer/IdentityServer2)
 + Acronym
   + Single Sign-On (**SSO**)
