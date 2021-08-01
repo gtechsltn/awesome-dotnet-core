@@ -8,6 +8,17 @@
 ## API
 
 ## Application Frameworks
++ ASP.NET Boilerplate - ASP.NET Boilerplate is a general purpose application framework especially designed for new modern web applications. It uses already familiar tools and implements best practices around them to provide you a SOLID development experience.
++ Abp vNext - Abp vNext is the next generation of the open source ASP.NET Boilerplate framework. It's a complete architecture and strong infrastructure to create modern web applications! Follows best practices and conventions to provide you a SOLID development experience.
++ ASP.NET MVC - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
++ DNTFrameworkCore - Lightweight and Extensible Infrastructure for Building High Quality Web Applications Based on ASP.NET Core.
++ DotnetSpider - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
++ ExcelDataReader - Lightweight and fast library written in C# for reading Microsoft Excel files.
++ orleans - Framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
++ ServiceStack - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all https://servicestack.net.
++ Steeltoe OSS - .NET toolkit for common microservice patterns.
++ Strathweb.TypedRouting.AspNetCore - A library enabling strongly typed routing in ASP.NET Core MVC projects.
++ X.PagedList - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
 
 ## Application Templates
 
