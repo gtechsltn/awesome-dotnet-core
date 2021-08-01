@@ -58,9 +58,9 @@
 + log4net - log4net is a port of the excellent Apache log4j™ framework to the Microsoft® .NET runtime.
 + NLog - Advanced .NET, Silverlight and Xamarin Logging with support for structured and non structured logging.
 + serilog - Simple .NET logging with fully-structured events.
-++ serilog-aspnetcore - Serilog integration for ASP.NET Core 2+.
-++ Serilog.Exceptions - Serilog.Exceptions is an add-on to Serilog to log exception details and custom properties that are not output in Exception.ToString().
-++ Serilog.Settings.Configuration - A Serilog configuration provider that reads from Microsoft.Extensions.Configuration.
+  + serilog-aspnetcore - Serilog integration for ASP.NET Core 2+.
+  + Serilog.Exceptions - Serilog.Exceptions is an add-on to Serilog to log exception details and custom properties that are not output in Exception.ToString().
+  + Serilog.Settings.Configuration - A Serilog configuration provider that reads from Microsoft.Extensions.Configuration.
 
 ## Mail
 
@@ -160,7 +160,7 @@
 + dotNetify - Simple, lightweight, yet powerful way to build real-time web apps.
 + Nucleus - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
-## References
+# References
 + https://github.com/thangchung/awesome-dotnet-core
 + https://github.com/thangchung/awesome-dotnet
 + https://github.com/quozd/awesome-dotnet
