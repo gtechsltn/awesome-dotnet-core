@@ -283,6 +283,21 @@
 + Angular Pro Sidebar
   + https://github.com/azouaoui-med/angular-pro-sidebar
 
+# Samples
++ CQRS: https://github.com/ezzylearning/CQRSDesignPatternDemo
++ APIs: https://github.com/ezzylearning/AspNetCore5WebApisDemo
++ ASP.NET Core SignalR: https://github.com/ezzylearning/SignalRLiveSportsDashboardDemo
++ Dapper CRUD: https://github.com/ezzylearning/AspNetCoreDapperCrudDemo
++ Database First: https://github.com/ezzylearning/AspNetCoreEfCoreDatabaseFirstDemo
++ Code First: https://github.com/ezzylearning/AspNetCoreEfCoreCodeFirstDemo
++ Third Party APIs: https://github.com/ezzylearning/ConsumeThirdPartyApisDemo (**IHttpClientFactory**)
++ Distributed Caching with Redis Cache: https://github.com/ezzylearning/AspNetCoreDistributedCachingDemo
++ In-Memory Caching: https://github.com/ezzylearning/AspNetCoreMemoryCachingDemo
++ Dapper + jQuery DataTables: https://github.com/ezzylearning/AspNetCoreDapperPagingSortingFilteringDemo
++ Bundling and Minification: https://github.com/ezzylearning/AspNetCoreBundleMinifyDemo
++ Bundling and Minification Using Gulp: https://github.com/ezzylearning/AspNetCoreBundlingWithGulpDemo
++ Authentication & Authorization with Cookies: https://github.com/ezzylearning/AspNetCoreCookiesAuthDemo
+
 # References
 + https://github.com/thangchung/awesome-dotnet-core
 + https://github.com/thangchung/awesome-dotnet
