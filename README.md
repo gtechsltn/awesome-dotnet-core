@@ -46,6 +46,7 @@
 ## Authentication and Authorization
 + **OAuth 2.0 and OpenID Connect** (https://pragmaticwebsecurity.com/courses/introduction-oauth-oidc.html)
   + npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow (https://github.com/damienbod/angular-auth-oidc-client)
++ **Scott Brady** - Scott Brady - Identity & Access Control (https://www.scottbrady91.com/Identity-Server)
 + **IdentityServer4** - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core (https://github.com/IdentityServer/IdentityServer4)
   + **Skoruba.IdentityServer4.Admin** - The administration for the IdentityServer4 and Asp.Net Core Identity (https://github.com/skoruba/IdentityServer4.Admin)
   + An ASP.NET Core IdentityServer4 Identity Template with Bootstrap 4 and Localization (https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate)
@@ -53,11 +54,20 @@
   + ASP.NET Core MVC application using API, OpenID Connect Hybrid flow , second API, Code Flow with PKCE (https://github.com/damienbod/AspNetCoreHybridFlowWithApi)
   + JPProject.IdentityServer4.AdminUI - Jp Project Free Admin Panel for IdentityServer4 administration (https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI)
   + User Management with IDS4 and a Custom Database: https://anexinet.com/user-management-with-ids4-and-a-custom-database/
-+ **Web API Authorization in ASP.NET Core**
++ **Web API Authorization in ASP.NET Core with IdentityServer4**
   + Securing an ASP.NET Core API which uses multiple access tokens (https://damienbod.com/2020/12/03/securing-an-asp-net-core-api-which-uses-multiple-access-tokens/)
   + Securing a Web API using multiple token servers (https://damienbod.com/2019/10/25/securing-a-web-api-using-multiple-token-servers/)
 + Simple sample of an IdentityServer4-based authentication server for ASP.NET Core (https://github.com/mjrousos/IdentityServer4Authentication)
-
++ Thinktecture **IdentityServer2** is a light-weight security token service built with .NET 4.5, MVC 4, Web API and WCF. (https://github.com/IdentityServer/IdentityServer2)
++ Acronym
+  + Single Sign-On (**SSO**)
+  + Secure Token Service (**STS**)
+  + OAuth 2.0 & OpenID Connect (**OIDC**)
+  + IdentityServer4 (**IdSrv4**) & RS256
+  + Proof-Key for Code Exchange (**PKCE**)
+  + JSON Web Encryption (**JWE**)
+  + Elliptical Curve Cryptography (**ECC**)
+  + Elliptical Curve Digital Signing Algorithms (**ECDSA**)
 
 ## Bundling and Minification
 
@@ -74,7 +84,8 @@
 ## Cryptography
 
 ## Database
-+ MongoDB
++ MongoDB - Querying performance for over 10 million records
++ MongoDB - Querying performance for over 5 million records
   + Ensure it's not because of insufficient RAM and excessive paging (Đảm bảo không phải do không đủ RAM và phân trang quá nhiều)
   + Inspect the slow queries in db.system.profile and run the queries manually using explain() (Kiểm tra các truy vấn chậm trong db.system.profile và chạy các truy vấn theo cách thủ công sử dụng explain())
   + Reason about the selectivity of the query and whether it's possible to improve the query using an index at all. (Lý do về tính chọn lọc của truy vấn và liệu có thể cải thiện truy vấn bằng cách sử dụng chỉ mục hay không.)
@@ -82,6 +93,11 @@
   + The best way to control this is to limit the number of different query types, disallow queries on low selectivity information and try to prevent random access to old data. (Cách tốt nhất để kiểm soát điều này là hạn chế số lượng các loại truy vấn khác nhau, không cho phép truy vấn thông tin có tính chọn lọc thấp và cố gắng ngăn truy cập ngẫu nhiên vào dữ liệu cũ.)
   + Making this particular query faster could be done using a compound index that contains the device type (Việc làm cho truy vấn cụ thể này nhanh hơn có thể được thực hiện bằng cách sử dụng chỉ mục kết hợp có chứa loại thiết bị)
   + I'm afraid there's no very good solution for this using mongodb at this time. (Tôi e rằng không có giải pháp nào tốt cho việc này bằng cách sử dụng mongodb vào lúc này.)
++ MongoDB - Random query performance test of mongodb database with 100 million records
++ MongoDB - 5 Successful Tips You Need to Optimize MongoDB
++ MongoDB - 7 Simple Speed Solutions for MongoDB
++ MongoDB - Indexing and MongoDB Query Performance
++ MongoDB - Add and Remove Indexes (https://www.percona.com/blog/2021/03/22/want-mongodb-performance-you-will-need-to-add-and-remove-indexes/)
 
 ## Database Drivers
 + **.NET Core Data Access** (https://devblogs.microsoft.com/dotnet/net-core-data-access/)
@@ -224,6 +240,38 @@
   + About this tutorial: In this tutorial series, you will build an ABP Commercial application named Acme.BookStore. This application is used to manage a list of books and their authors. It is developed using the following technologies:
     + MongoDB as the database provider.
     + Angular as the UI Framework.
++ Clean Architecture, Repository and Unit of Work patterns (Dapper, SQLKata, GenFu)
+  + https://github.com/workcontrolgit/TemplateKissAPI
++ Angular Starter Kit for Fast Prototype
+  + https://github.com/workcontrolgit/cat-toolkit-angular-starter
++ ApiResources
+  + https://github.com/workcontrolgit/catnetcoreapi
++ **AWS Security Token Service (STS)** now supports enabling the global STS endpoint to issue session tokens compatible with all AWS Regions
+  + https://aws.amazon.com/about-aws/whats-new/2019/04/aws-security-token-service-sts-now-supports-enabling-the-global-sts-endpoint-to-issue-session-tokens-compatible-with-all-aws-regions/
++ **IdentityServer4 Admin UI v2**
+  + https://github.com/workcontrolgit/TokenProject.AdminUI
+  + **DemoProject.Admin**
+    + https://localhost:44303 (https://cat-token-admin.azurewebsites.net)
+  + **DemoProject.Admin.Api**
+    + https://localhost:44302 (https://cat-token-adminapi.azurewebsites.net)
+  + **DemoProject.STS.Identity**
+    + https://localhost:44310 (https://cat-token-identity.azurewebsites.net)
++ **Secure Token Service (STS) Starter Kit**
+  + https://github.com/workcontrolgit/cat-toolkit-tokenservice-starter
+  + **DemoProject.Admin**
+    + https://localhost:44303 (https://cat-token-admin.azurewebsites.net)
+  + **DemoProject.Admin.Api**
+    + https://localhost:44302 (https://cat-token-adminapi.azurewebsites.net)
+  + **DemoProject.STS.Identity**
+    + https://localhost:44310 (https://cat-token-identity.azurewebsites.net)
++ **Oracle EF Core 5**
+  + https://github.com/workcontrolgit/OracleEFCore5
++ Angular 11 Pagination 100,000+ Rows
+  + https://github.com/workcontrolgit/cat-toolkit-apiresources-starter
++ **BlazorHero**
+  + https://github.com/blazorhero/CleanArchitecture
++ Angular Pro Sidebar
+  + https://github.com/azouaoui-med/angular-pro-sidebar
 
 # References
 + https://github.com/thangchung/awesome-dotnet-core
