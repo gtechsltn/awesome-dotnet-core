@@ -89,10 +89,17 @@
 ## Reporting
 + FastReport - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in MVC, Web API applications.
 
-## Scheduler and Job
+## Scheduler and Cron Job
 + FluentScheduler - Automated job scheduler with fluent interface.
+  + https://github.com/fluentscheduler/FluentScheduler
 + Hangfire.IO - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps http://hangfire.io.
-+ Quartz.NET - Quartz Enterprise Scheduler .NET http://www.quartz-scheduler.net.
+  + https://www.hangfire.io
+  + https://github.com/HangfireIO/Hangfire
++ Quartz.NET - Quartz Enterprise Scheduler .NET
+  + https://www.quartz-scheduler.net
+  + https://github.com/quartznet/quartznet
++ Worker Service
+  + https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services
 
 ## SDKs
 
@@ -164,3 +171,4 @@
 + https://github.com/thangchung/awesome-dotnet-core
 + https://github.com/thangchung/awesome-dotnet
 + https://github.com/quozd/awesome-dotnet
++ https://awesomerank.github.io/lists/thangchung/awesome-dotnet-core.html
