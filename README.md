@@ -1,8 +1,17 @@
 # Awesome .NET Core
 
 # Contents
++ General
++ Interview
++ Frameworks, Libraries and Tools
++ References
 
 # General
+
+# Education, E-Books and Interview
++ A complete computer science study plan to become a software engineer: https://github.com/jwasham/coding-interview-university
++ Freely available programming books: https://github.com/EbookFoundation/free-programming-books/
++ Vietnamese / Tiếng Việt: https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-vi.md
 
 # Frameworks, Libraries and Tools
 ## API
