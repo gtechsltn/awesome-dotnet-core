@@ -144,5 +144,5 @@
 
 ## Starter Kits
 + ASP.NET Core Starter Kit - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
-+ dotNetify - Simple, lightweight, yet powerful way to build real-time HTML5/C# .NET web apps.
++ dotNetify - Simple, lightweight, yet powerful way to build real-time web apps.
 + Nucleus - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
