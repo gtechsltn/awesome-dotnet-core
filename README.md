@@ -287,3 +287,31 @@
 + https://github.com/thangchung/awesome-dotnet
 + https://github.com/quozd/awesome-dotnet
 + https://awesomerank.github.io/lists/thangchung/awesome-dotnet-core.html
+
+# History
++ Triều Nguyễn – triều đại Phong kiến cuối cùng ở Việt Nam, đã tồn tại trong suốt hơn 143 năm (1802-1945) với 13 đời vua Nguyễn, 9 chúa Nguyễn
++ Vua Gia Long (1802-1819)*
+  + Ngày 1-2-1802, Nguyễn Phúc Ánh lên ngôi Hoàng đế ở Phú Xuân, lấy niên hiệu là Gia Long, chính thức lập nên triều đại nhà Nguyễn. Tháng 3 năm 1804, vua Gia Long đổi quốc hiệu nước ta là Việt Nam.
++ Vua Minh Mạng (1820-1840)
+  + Cho bỏ các dinh và trấn mà thành lập các tỉnh (cả nước được chia làm 31 tỉnh)
+  + Nhà vua cho lập Quốc Tử Giám, mở thêm kỳ thi Hội và thi Đình (thời Gia Long chỉ có thi Hương).
+  + Lãnh thổ Việt Nam dưới thời Minh Mạng được mở rộng nhất trong lịch sử và Việt Nam thực sự trở thành một quốc gia hùng mạnh. Vì vậy vào năm 1838, vua Minh Mạng cho đổi tên nước ta là Đại Nam.
++ Vua Thiệu Trị (1841-1847)
++ Vua Tự Đức (1848-1883)
+  + Vua Tự Đức không con, ông nhận 3 người cháu gọi bằng chú làm con nuôi là: Nguyễn Phúc Ưng Chân (sau này là vua Dục Đức); Nguyễn Phúc Ưng Đường (sau này là vua Đồng Khánh); Nguyễn Phúc Ưng Đăng (sau này là vua Kiến Phúc).
++ Vua Dục Đức (1883, 3 ngày)
++ Vua Hiệp Hòa (1883, 4 tháng)
++ Vua Kiến Phúc (1883-1884)
++ Vua Hàm Nghi (1884-1885)*
+  + Binh biến năm Ất Dậu (5-7-1885) xảy ra, vua Hàm Nghi cùng quần thần ra Tân Sở, phát hịch Cần Vương, phát động phong trào kháng Pháp trên toàn quốc.
++ Vua Đồng Khánh (1886-1888)
++ Vua Thành Thái (1889-1907)
+  + Vua Thành Thái là người có tư tưởng tiến bộ (cắt tóc ngắn, lái ô tô, xuồng máy) và có tư tưởng chống Pháp.
++ Vua Duy Tân (1907-1916)
+  + Vua Duy Tân là vị vua lên ngôi nhỏ tuổi nhất trong 13 vua Nguyễn.
++ Vua Khải Định (1916-1925)
+  + Vua Khải Định chỉ có một con trai là Hoàng tử Vĩnh Thụy (vua Bảo Đại).
++ Vua Bảo Đại (1926-1945)
+  + Vua Bảo Đại ở ngôi cho đến 30 tháng 8 năm 1945 thì làm lễ thoái vị tại Ngọ Môn, giao chính quyền lại cho Chính phủ Cách mạng Lâm thời.
+  + Chế độ phong kiến chấm dứt, Bảo Đại sang Pháp và sống hết cuộc đời của vị vua lưu vong ở đó. Ông mất ngày 1 tháng 8 năm 1997 tại Pháp.
+Vua Bảo Đại có 5 người con (2 trai, 3 gái).
