@@ -16,6 +16,7 @@
 + DotnetSpider - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
 + **EquinoxProject** - Full ASP.NET Core 5 application with DDD, CQRS and Event Sourcing concepts (https://github.com/EduardoPires/EquinoxProject)
 + ExcelDataReader - Lightweight and fast library written in C# for reading Microsoft Excel files.
++ Kledex - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
 + orleans - Orleans is a cross-platform framework for building distributed applications with .NET.
 + ServiceStack - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all https://servicestack.net.
 + Steeltoe OSS - .NET toolkit for common microservice patterns.
@@ -23,9 +24,12 @@
 + X.PagedList - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
 
 ## Application Templates
++ TemplateOnionAPI - https://github.com/workcontrolgit/TemplateOnionAPI
++ Skoruba.IdentityServer4.Admin - The administration for the IdentityServer4 and Asp.Net Core Identity (https://github.com/skoruba/IdentityServer4.Admin)
 
 ## Authentication and Authorization
-
++ IdentityServer4
+  + 
 ## Bundling and Minification
 
 ## Caching
@@ -43,6 +47,7 @@
 ## Database
 
 ## Database Drivers
++ **.NET Core Data Access** (https://devblogs.microsoft.com/dotnet/net-core-data-access/)
 
 ## Database Tools and Utilities
 
@@ -74,6 +79,7 @@
 + Entity Framework Core - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
 + **Dapper** - Simple object mapper for .NET.
 + PetaPoco - A tiny ORM-ish thing for your POCO's.
++ NPoco - Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco.
 
 ## Profiling
 + Glimpse - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. Unstable version
