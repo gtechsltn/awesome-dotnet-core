@@ -11,7 +11,23 @@
 + ASP.NET Boilerplate - ASP.NET Boilerplate is a general purpose application framework especially designed for new modern web applications. It uses already familiar tools and implements best practices around them to provide you a SOLID development experience.
 + **ABP Framework** - Open Source Web Application Framework for ASP.NET Core (https://github.com/abpframework/abp/)
 + Abp vNext - Abp vNext is the next generation of the open source ASP.NET Boilerplate framework. It's a complete architecture and strong infrastructure to create modern web applications! Follows best practices and conventions to provide you a SOLID development experience.
-+ ASP.NET MVC - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
++ **ASP.NET Core MVC** - The ASP.NET Core MVC framework is a lightweight, open source, highly testable presentation framework optimized for use with ASP.NET Core.
+  + ASP.NET Core MVC provides a patterns-based way to build dynamic websites that enables a clean separation of concerns. It gives you full control over markup, supports TDD-friendly development and uses the latest web standards.
+  + Features - ASP.NET Core MVC includes the following:
+    + Routing
+    + Model binding
+    + Model validation
+    + Dependency injection
+    + Filters
+    + Areas
+    + Web APIs
+    + Testability
+    + Razor view engine
+    + Strongly typed views
+    + Tag Helpers
+    + View Components
++ **ASP.NET MVC** - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
++ ASP.NET Zero - Base solution for your next web application!
 + DNTFrameworkCore - Lightweight and Extensible Infrastructure for Building High Quality Web Applications Based on ASP.NET Core.
 + DotnetSpider - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
 + **EquinoxProject** - Full ASP.NET Core 5 application with DDD, CQRS and Event Sourcing concepts (https://github.com/EduardoPires/EquinoxProject)
@@ -28,8 +44,21 @@
 + Skoruba.IdentityServer4.Admin - The administration for the IdentityServer4 and Asp.Net Core Identity (https://github.com/skoruba/IdentityServer4.Admin)
 
 ## Authentication and Authorization
-+ IdentityServer4
-  + 
++ **OAuth 2.0 and OpenID Connect** (https://pragmaticwebsecurity.com/courses/introduction-oauth-oidc.html)
+  + npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow (https://github.com/damienbod/angular-auth-oidc-client)
++ **IdentityServer4** - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core (https://github.com/IdentityServer/IdentityServer4)
+  + **Skoruba.IdentityServer4.Admin** - The administration for the IdentityServer4 and Asp.Net Core Identity (https://github.com/skoruba/IdentityServer4.Admin)
+  + An ASP.NET Core IdentityServer4 Identity Template with Bootstrap 4 and Localization (https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate)
+  + OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4 (https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow)
+  + ASP.NET Core MVC application using API, OpenID Connect Hybrid flow , second API, Code Flow with PKCE (https://github.com/damienbod/AspNetCoreHybridFlowWithApi)
+  + JPProject.IdentityServer4.AdminUI - Jp Project Free Admin Panel for IdentityServer4 administration (https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI)
+  + User Management with IDS4 and a Custom Database: https://anexinet.com/user-management-with-ids4-and-a-custom-database/
++ **Web API Authorization in ASP.NET Core**
+  + Securing an ASP.NET Core API which uses multiple access tokens (https://damienbod.com/2020/12/03/securing-an-asp-net-core-api-which-uses-multiple-access-tokens/)
+  + Securing a Web API using multiple token servers (https://damienbod.com/2019/10/25/securing-a-web-api-using-multiple-token-servers/)
++ Simple sample of an IdentityServer4-based authentication server for ASP.NET Core (https://github.com/mjrousos/IdentityServer4Authentication)
+
+
 ## Bundling and Minification
 
 ## Caching
@@ -174,6 +203,14 @@
 + ASP.NET Core Starter Kit - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
 + dotNetify - Simple, lightweight, yet powerful way to build real-time web apps.
 + Nucleus - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
++ .NET 5 Source Generators - MediatR - CQRS - OMG! (https://github.com/edumentab/SourceGenerator-MediatR-CQRS)
++ Onion Architecture In ASP.NET Core With CQRS (https://github.com/iammukeshm/OnionArchitecture)
++ Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach (https://github.com/pereiren/dotnet-template-onion)
++ ReactJS Starter Kit
+  + ReactJS Redux Saga Axios starter kit including scss support, i18n and routing. Built on top of create-react-app project (https://github.com/sebamed/react-js-boilerplate)
+  + react-redux-axios-app-starter-kit (https://github.com/Palatnyi/react-redux-axios-starter-kit)
++ MongoDB
+  + Angular, Microservices and Authentication with IdentityServer, MongoDB and Docker (https://github.com/apomic80/angular-microservices-identityserver)
 
 # References
 + https://github.com/thangchung/awesome-dotnet-core
